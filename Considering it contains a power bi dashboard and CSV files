@@ -1,0 +1,4 @@
+This repository contains files for a Power BI dashboard. 
+The main file is designed to be opened and used within the Power BI Desktop application.  
+For functionality, the dashboard relies on the included CSV files which provide the underlying data.
+These CSV files can be imported and connected to the Power BI dashboard within the Power BI Desktop application.
