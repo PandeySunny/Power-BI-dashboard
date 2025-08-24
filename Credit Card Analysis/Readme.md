@@ -61,8 +61,6 @@ cd Power-BI-dashboard/Credit\ Card\ Analysis/
 
 📷 Dashboard Preview
 
-(Make sure to upload a screenshot named dashboard_preview.png in this repo to display the preview.)
-
 📈 Key Insights
 
 Majority of spending comes from urban customers aged 25–40.
