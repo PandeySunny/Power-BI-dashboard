@@ -1,0 +1,86 @@
+# 💳 Credit Card Analysis Dashboard  
+
+## 📌 Project Overview  
+This project presents an **end-to-end Credit Card Analysis** using **Power BI**.  
+It integrates multiple datasets (customers, addresses, and credit card transactions) to provide insights into:  
+
+- Customer demographics & distribution  
+- Spending patterns and transaction behavior  
+- Credit card utilization trends  
+- Regional and category-wise analysis  
+
+The dashboard helps financial institutions and analysts to **understand customer behavior**, **track KPIs**, and **make data-driven decisions**.  
+
+---
+## 📂 Dataset Information  
+
+The analysis uses the following datasets:  
+
+1. **customer.csv** – Customer demographic details (e.g., ID, age, gender, occupation).  
+2. **cust_add.csv** – Customer address details (e.g., city, state, region).  
+3. **credit_card.csv** – Transaction-level details (e.g., transaction ID, amount, type).  
+4. **cc_add.csv** – Additional credit card attributes (e.g., card type, limits, usage).  
+
+---
+
+## 📊 Dashboard Features  
+
+✔️ **Customer Demographics Overview**  
+✔️ **Spending Trends & Transaction Volume**  
+✔️ **Regional and State-level Analysis**  
+✔️ **Card Type Utilization (Gold, Silver, Platinum, etc.)**  
+✔️ **KPIs for Revenue, Profit, and Usage**  
+✔️ **Interactive Filters for Deep Dive Analysis**  
+
+---
+
+## 🛠️ Tools & Technologies  
+
+- **Power BI** – Data visualization and dashboard building  
+- **CSV files** – Data source integration  
+- **Data Cleaning & Transformation** – Power Query  
+
+---
+
+## 🚀 How to Use  
+
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/PandeySunny/Power-BI-dashboard.git
+
+2. Navigate to the project folder:
+
+cd Power-BI-dashboard/Credit\ Card\ Analysis/
+
+
+3. Open the Credit Card Analysis.pbix file in Power BI Desktop.
+
+4. Connect datasets (customer.csv, cust_add.csv, credit_card.csv, cc_add.csv) if needed.
+
+5. Explore interactive dashboards and insights.
+
+📷 Dashboard Preview
+
+(Make sure to upload a screenshot named dashboard_preview.png in this repo to display the preview.)
+
+📈 Key Insights
+
+Majority of spending comes from urban customers aged 25–40.
+
+Gold and Platinum cards show higher utilization compared to Silver.
+
+Transactions peak during festive seasons and weekends.
+
+Customers in Tier-1 cities contribute to 70%+ of total revenue.
+
+📌 Future Scope
+
+🔹 Integration with real-time data pipelines
+🔹 Predictive modeling for fraud detection & customer segmentation
+🔹 Deployment on Power BI Service with automated refresh
+
+👤 Author
+
+Sunny Pandey
+📧 pandeysunny7087@gmail.com
+
