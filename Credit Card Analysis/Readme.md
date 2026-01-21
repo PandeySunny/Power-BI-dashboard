@@ -2,7 +2,11 @@
 ---
 
 ## Project Overview
-This project was completed as part of my **Data Analyst Internship at Mastercard** and focuses on analyzing credit card transaction data and customer demographics to generate actionable business insights. The project uses interactive Power BI dashboards to evaluate revenue performance, spending behavior, customer segmentation, card usage trends, and seasonal patterns. The dashboards are designed to support executive-level decision-making and targeted marketing strategies.
+## Project Overview
+This project was completed as part of my **practice and knowledge development** and reflects my strong interest in the **fintech industry**. It focuses on analyzing credit card transaction data and customer demographics to generate actionable business insights.
+
+The project uses interactive **Power BI dashboards** to evaluate revenue performance, spending behavior, customer segmentation, card usage trends, and seasonal patterns. The dashboards are designed to support executive-level decision-making and enable targeted marketing and strategic planning through data-driven insights.
+
 
 ---
 
