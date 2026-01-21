@@ -183,8 +183,3 @@ This table displays **Revenue, Interest Earned, and Income by Job Category**:
 The project enabled stakeholders to identify high-value customer segments, optimize card strategies, improve marketing targeting, and understand seasonal spending behaviors, supporting better strategic and operational decisions.
 
 ---
-
-## Disclaimer
-This project is included for **resume and portfolio purposes only**. The data used is anonymized and does not represent real Mastercard customer data.
-
----
