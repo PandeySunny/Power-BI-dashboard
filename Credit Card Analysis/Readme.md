@@ -1,6 +1,4 @@
 # Credit Card Transaction & Customer Analytics Project  
-**Mastercard – Data Analyst Internship**
-
 ---
 
 ## Project Overview
