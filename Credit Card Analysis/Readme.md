@@ -1,7 +1,5 @@
 # Credit Card Transaction & Customer Analytics Project  
 ---
-
-## Project Overview
 ## Project Overview
 This project was completed as part of my **practice and knowledge development** and reflects my strong interest in the **fintech industry**. It focuses on analyzing credit card transaction data and customer demographics to generate actionable business insights.
 
