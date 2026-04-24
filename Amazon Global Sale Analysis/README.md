@@ -13,7 +13,7 @@ A comprehensive Power BI dashboard analyzing Amazon's global sales performance a
 
 ## 📸 Dashboard Preview
 
-![Amazon Global Sale Analysis Dashboard](Amazon_Global_Sale_Analysis.png)
+![Amazon Global Sale Analysis](Amazon_Global_Sale_Analysis.png)
 
 ---
 
@@ -179,8 +179,3 @@ Check out the full collection of Power BI projects:
 [![GitHub](https://img.shields.io/badge/GitHub-PandeySunny-181717?style=flat&logo=github)](https://github.com/PandeySunny)
 
 ---
-
-## 📄 License
-
-This project is for educational and portfolio purposes only.  
-Amazon branding and logos are trademarks of **Amazon.com, Inc.**
