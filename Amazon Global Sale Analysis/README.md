@@ -1,98 +1,98 @@
 # 📦 Amazon Global Sale Analysis — Power BI Dashboard
- 
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 ![Years](https://img.shields.io/badge/Data%20Years-2012--2015-blue?style=for-the-badge)
- 
+![GitHub](https://img.shields.io/badge/GitHub-PandeySunny-181717?style=for-the-badge&logo=github)
+
+> 📁 Part of the [Power BI Dashboard Collection](https://github.com/PandeySunny/Power-BI-dashboard) by [@PandeySunny](https://github.com/PandeySunny)
+
 A comprehensive Power BI dashboard analyzing Amazon's global sales performance across regions, segments, products, and customers from **2012 to 2015**.
- 
+
 ---
- 
+
 ## 📸 Dashboard Preview
- 
-[Amazon Global Sale Analysis/Amazon Global Sale Analysis.png]
- 
+
+![Amazon Global Sale Analysis Dashboard](Amazon_Global_Sale_Analysis.png)
+
 ---
- 
-## 📊 Key Metrics (KPIs)
- 
+
+## 📊 Key KPI Metrics
+
 | Metric | Value |
-|---|---|
+|--------|-------|
 | 💰 Total Revenue | **1.47M** |
 | 📦 Product Quantity | **178K** |
 | 📈 Sales Projection | **12.6M** |
 | 🔄 Returns | **1,464** |
- 
+
 ---
- 
-## 📁 Project Structure
- 
-```
-Amazon_Global_Sale_Analysis/
-│
-├── Amazon_Global_Sale_Analysis.pbix   # Main Power BI project file
-├── Amazon_Global_Sale_Analysis.pdf    # Exported PDF report
-├── Amazon_Global_Sale_Analysis.png    # Dashboard screenshot
-└── README.md                          # Project documentation
-```
- 
+
+## 📁 Files in This Project
+
+| File | Description |
+|------|-------------|
+| `Amazon_Global_Sale_Analysis.pbix` | Main Power BI project file |
+| `Amazon_Global_Sale_Analysis.pdf` | Exported PDF report |
+| `Amazon_Global_Sale_Analysis.png` | Dashboard screenshot |
+| `README.md` | Project documentation |
+
 ---
- 
-## 📈 Dashboard Sections & Visuals
- 
+
+## 📈 Dashboard Visuals & Insights
+
 ### 1. 📅 Sales Year on Year
-A bar chart tracking annual sales growth from 2012 to 2015:
- 
+Bar chart tracking annual sales growth:
+
 | Year | Sales |
 |------|-------|
 | 2012 | 2.3M |
 | 2013 | 2.7M |
 | 2014 | 3.4M |
 | 2015 | 4.3M |
- 
-> Consistent upward trend with ~86% growth over 4 years.
- 
+
+> 📌 Sales grew by ~**87%** over 4 years — a strong upward trend.
+
 ---
- 
-### 2. 🌍 Year Wise | Amazon Globally Sale
-An interactive year-slicer panel covering the global sale years: **2012, 2013, 2014, 2015** — allows filtering all visuals by a specific year.
- 
+
+### 2. 📆 Year Wise | Amazon Globally Sale
+An interactive year slicer (**2012, 2013, 2014, 2015**) that dynamically filters all visuals on the dashboard based on the selected year.
+
 ---
- 
+
 ### 3. 🗺️ Sum of Sales by Region and Quantity
-An interactive map visual displaying sales distribution across global regions with quantity markers per location, giving a geographic overview of Amazon's reach.
- 
+An interactive Bing Map visual displaying sales volume and quantity across global regions, giving a geographic view of Amazon's international market reach.
+
 ---
- 
+
 ### 4. 🍩 Region Wise Sale Category
-A donut chart breaking down market share by region:
- 
+
 | Market | Share |
 |--------|-------|
 | Asia Pacific | 27.88% |
-| (Region 2) | 22.87% |
-| (Region 3) | 20.23% |
-| (Region 4) | 20.07% |
-| Europe | 8.94% |
- 
+| USCA | 22.87% |
+| LATAM | 20.23% |
+| Europe | 20.07% |
+| Africa | 8.94% |
+
+> 🌏 **Asia Pacific** leads with the highest regional market share.
+
 ---
- 
+
 ### 5. 🥧 Sales by Segment
-A pie chart showing revenue distribution across customer segments:
- 
+
 | Segment | Revenue | Share |
 |---------|---------|-------|
 | Consumer | 6.5M | 51.5% |
 | Corporate | 3.8M | ~30% |
 | Home Office | 2.3M | ~18% |
- 
-> The **Consumer** segment dominates with over half of total revenue.
- 
+
+> 🛍️ The **Consumer** segment dominates with over half of total revenue.
+
 ---
- 
-### 6. 👤 Profit by Customer Name (Top 5)
-A bar chart of the highest-profit individual customers:
- 
+
+### 6. 👤 Top 5 Customers by Profit
+
 | Customer | Profit |
 |----------|--------|
 | Tamara Chand | 8.7K |
@@ -100,12 +100,11 @@ A bar chart of the highest-profit individual customers:
 | Sanjit Chand | 8.2K |
 | Hunter Lopez | 7.8K |
 | Bill Eplett | 7.4K |
- 
+
 ---
- 
-### 7. 🔴 Bottom 5 Customer Products (by Profit/Loss)
-Products generating the most losses:
- 
+
+### 7. 🔴 Bottom 5 Products by Profit (Loss-Making)
+
 | Product | Loss |
 |---------|------|
 | Cubify Cube (3D Printer) | -8.9K |
@@ -113,14 +112,13 @@ Products generating the most losses:
 | Motorola S | -4.4K |
 | Cubify Cube (variant) | -3.8K |
 | Bevis Round Table | -3.6K |
- 
-> ⚠️ The Cubify Cube 3D Printer is the single biggest loss-making product.
- 
+
+> ⚠️ The **Cubify Cube 3D Printer** is the single biggest loss-making product.
+
 ---
- 
-### 8. 🟢 Top 5 Customer Products (by Sales)
-Products generating the most revenue:
- 
+
+### 8. 🟢 Top 5 Products by Sales
+
 | Product | Sales |
 |---------|-------|
 | Canon imageCLASS | 25K |
@@ -128,52 +126,61 @@ Products generating the most revenue:
 | Motorola S | 17K |
 | Hoover Stove | 12K |
 | Sauder Classic | 11K |
-| Harbour Creations | 10K |
- 
-> 🏆 **Canon imageCLASS** is the top revenue-generating product.
- 
+
+> 🏆 **Canon imageCLASS** is the top revenue-generating product at 25K.
+
 ---
- 
+
+## 💡 Key Business Insights
+
+- **📈 87% Revenue Growth** — Sales climbed from 2.3M (2012) to 4.3M (2015) in just 4 years.
+- **🛍️ Consumer Segment Dominates** — Over 51% of all revenue comes from individual consumers.
+- **🌏 Asia Pacific is #1 Market** — Holds the largest regional share at ~28%.
+- **🔴 3D Printers Underperform** — The Cubify Cube line is the biggest loss product at -8.9K.
+- **🏆 Canon Leads Product Sales** — At 25K, nearly 50% ahead of the next best product.
+- **👤 High-Value Customers** — Top 5 customers each generate 7–9K in individual profit.
+
+---
+
 ## 🛠️ Tools & Technologies
- 
-- **Microsoft Power BI Desktop** — Dashboard development
-- **DAX (Data Analysis Expressions)** — Custom measures and KPIs
-- **Power Query (M Language)** — Data transformation and cleaning
-- **Bing Maps** — Regional sales map visualization
+
+| Tool | Purpose |
+|------|---------|
+| **Power BI Desktop** | Dashboard design & development |
+| **DAX** | Custom measures, KPIs & calculations |
+| **Power Query (M)** | Data cleaning & transformation |
+| **Bing Maps** | Regional sales map visualization |
+
 ---
- 
-## 💡 Key Insights
- 
-1. **Steady Revenue Growth** — Sales grew from 2.3M (2012) to 4.3M (2015), an **87% increase** in 4 years.
-2. **Consumer Segment Dominates** — Over 51% of all revenue comes from individual consumers.
-3. **Asia Pacific is the Largest Market** — Holding ~28% of global region-wise sales.
-4. **High-Value Customers** — Top 5 customers individually generate 7–9K in profit.
-5. **3D Printers are Loss-Heavy** — The Cubify Cube line is the biggest underperformer at -8.9K.
-6. **Canon Leads in Product Sales** — Generating 25K, nearly 50% more than the next top product.
+
+## 🚀 How to Run This Project
+
+1. Install [**Power BI Desktop**](https://powerbi.microsoft.com/desktop/) (free).
+2. Clone this repository:
+   ```bash
+   git clone https://github.com/PandeySunny/Power-BI-dashboard.git
+   ```
+3. Navigate to the `Amazon Global Sale Analysis` folder.
+4. Open `Amazon_Global_Sale_Analysis.pbix` in Power BI Desktop.
+5. Explore and interact with the dashboard using year slicers and filters.
+
 ---
- 
-## 🚀 How to Open the Project
- 
-1. Download and install [**Power BI Desktop**](https://powerbi.microsoft.com/desktop/) (free).
-2. Clone or download this repository.
-3. Open `Amazon_Global_Sale_Analysis.pbix` in Power BI Desktop.
-4. Explore and interact with the dashboard using the year slicers and filters.
+
+## 📂 More Dashboards
+
+Check out the full collection of Power BI projects:
+👉 [github.com/PandeySunny/Power-BI-dashboard](https://github.com/PandeySunny/Power-BI-dashboard)
+
 ---
- 
-## 📌 Use Cases
- 
-- Business intelligence & reporting practice
-- Power BI portfolio showcase
-- E-commerce sales analysis reference
-- Dashboard design inspiration
----
- 
+
 ## 🙋‍♂️ Author
- 
-> Built as a Power BI portfolio project demonstrating sales analytics, data visualization, and KPI tracking for a global e-commerce dataset.
- 
+
+**Sunny Pandey**
+[![GitHub](https://img.shields.io/badge/GitHub-PandeySunny-181717?style=flat&logo=github)](https://github.com/PandeySunny)
+
 ---
- 
+
 ## 📄 License
- 
-This project is for educational and portfolio purposes only. Amazon branding and logos are trademarks of Amazon.com, Inc.
+
+This project is for educational and portfolio purposes only.  
+Amazon branding and logos are trademarks of **Amazon.com, Inc.**
