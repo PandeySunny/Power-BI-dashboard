@@ -10,7 +10,7 @@ A comprehensive Power BI dashboard analyzing Amazon's global sales performance a
  
 ## 📸 Dashboard Preview
  
-![Amazon Global Sale Analysis Dashboard](Amazon_Global_Sale_Analysis.png)
+[Amazon Global Sale Analysis/Amazon Global Sale Analysis.png]
  
 ---
  
